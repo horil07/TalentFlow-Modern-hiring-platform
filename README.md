@@ -1,4 +1,9 @@
 # 🌟 TalentFlow – Modern Hiring Platform
+talent-flow-sigma-nine.vercel.app/
+## 🔗 Project Links
+
+
+- **Live Demo (Vercel):** [https://talent-flow-sigma-nine.vercel.app/](https://talent-flow-sigma-nine.vercel.app/)
 
 TalentFlow is a **modern, AI-assisted recruitment platform** designed to streamline the hiring process for both employers and job seekers. It combines a user-friendly interface, intelligent candidate filtering, and real-time analytics to make recruitment faster, smarter, and more efficient.
 
